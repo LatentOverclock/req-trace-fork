@@ -56,10 +56,10 @@ After this instruction, you can always tell your agent to create a project follo
 If a project uses req-trace, the flow will be applied automatically.
 
 ## Breaking changes
-## v0.5: extracting guidelines
+### v0.5: extracting guidelines
 You now have to specify inside agents.md (template.md) which implementation-guidelines you wan't to use.
 
-## v0.4: project renamed
+### v0.4: project renamed
 This project was renamed from `agents-md` to `req-trace`.
 
 ### v0.3: project-requirements moved
