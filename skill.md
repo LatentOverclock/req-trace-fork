@@ -6,6 +6,7 @@ description: Apply the req-trace workflow in programming projects. Use when a us
 req-trace repository: https://github.com/trace-code-org/req-trace  
 
 If you have not already done that, it is recommended to clone the req-trace repository into your user-folder as `.req-trace`.  
+You should only use this copy as your copy for getting req-trace information before implementing a project. You should not link `~/.req-trace` as a submodule into a project. For project-specific req-trace submodules you should use references to release-branches on the origin repository.  
 
 If you use the req-trace flow for a project, you must read the README.md of req-trace and follow the `Usage` section strictly.
 
